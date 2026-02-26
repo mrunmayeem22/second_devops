@@ -1,2 +1,3 @@
-New Decops file. Welcome!
+New Devops file. Welcome!
 This is second devops file!
+Today is 26th Feb, 2026
